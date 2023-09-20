@@ -1,0 +1,15 @@
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.csproj.AssemblyReference.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.AssemblyInfoInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.AssemblyInfo.cs
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\bin\Debug\net6.0\MiniCalculadora.exe
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\bin\Debug\net6.0\MiniCalculadora.deps.json
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\bin\Debug\net6.0\MiniCalculadora.runtimeconfig.json
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\bin\Debug\net6.0\MiniCalculadora.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\bin\Debug\net6.0\MiniCalculadora.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\refint\MiniCalculadora.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\MiniCalculadora.genruntimeconfig.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\002-orientacaoObjetos\MiniCalculadora\MiniCalculadora\obj\Debug\net6.0\ref\MiniCalculadora.dll
