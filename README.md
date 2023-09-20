@@ -1,1 +1,1 @@
-# -Std-MiniCalculadora---CSharp
+# Projeto de uma calculadora simples.
